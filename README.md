@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi! I'm Haruki
+Casual scripter and programmer.
+The rest about me is an air of mystery. 
+<br>
 
-<!--
-**haruki-taka8/haruki-taka8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧪　Langauges & Technologies
+[Powershell](https://github.com/PowerShell/PowerShell) ・
+[Python](https://www.python.org/) ・
+[Lua](https://www.lua.org/) ・
+Pascal ・
+Other Scripts (`.bat`, `.vbs`, `.ahk`...)
+<br><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️　Tools
+[Visual Studio Code](https://github.com/microsoft/vscode) ・
+[Notepad++](https://notepad-plus-plus.org/) ・
+[Visual Studio](https://visualstudio.microsoft.com/) ・
+vi ・
+Windows Notepad
